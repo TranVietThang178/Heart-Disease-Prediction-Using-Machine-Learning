@@ -137,15 +137,15 @@ Heart-Disease-Prediction-Using-Machine-Learning/
 
 | Notebook | Description | Owner |
 |---|---|---|
-| 01_Preprocessing | Parse raw UCI files, clean, impute, merge | Teammate |
-| 02_EDA | Distributions, outliers, correlation analysis | You |
-| 03_Feature_Engineering | Encoding, scaling, train/test splits | You |
-| 04_Dimensionality_Reduction | PCA and LDA analysis | You |
-| 05_Random_Forest | Baseline and tuned RF classifier | You |
-| 06_LR | Baseline, pipeline, and tuned LR classifier | Teammate |
-| 07_XGBoost | Baseline and tuned XGBoost classifier | Teammate |
+| 01_Preprocessing | Parse raw UCI files, clean, impute, merge | Jeevan Manoj |
+| 02_EDA | Distributions, outliers, correlation analysis | Viet Thang Tran |
+| 03_Feature_Engineering | Encoding, scaling, train/test splits | Viet Thang Tran |
+| 04_Dimensionality_Reduction | PCA and LDA analysis | Viet Thang Tran |
+| 05_Random_Forest | Baseline and tuned RF classifier | Viet Thang Tran |
+| 06_LR | Baseline, pipeline, and tuned LR classifier | Jeevan Manoj |
+| 07_XGBoost | Baseline and tuned XGBoost classifier | Jeevan Manoj |
 | 08_Evaluation | Full model comparison and threshold analysis | Shared |
-| 09_SHAP | Feature importance and individual predictions | You |
+| 09_SHAP | Feature importance and individual predictions | Viet Thang Tran |
 
 Notebooks must be run in order (01 through 09) as each depends on outputs
 from the previous step.
@@ -248,7 +248,7 @@ the strong linear separability in this dataset.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Heart-Disease-Prediction-Using-Machine-Learning.git
+git clone https://github.com/Viet Thang Tranr-username/Heart-Disease-Prediction-Using-Machine-Learning.git
 cd Heart-Disease-Prediction-Using-Machine-Learning
 ```
 
@@ -302,7 +302,7 @@ notebook 01. All other data files are generated automatically by the pipeline.
 
 | Name | Contributions |
 |---|---|
-| Your Name | EDA, Feature Engineering, Dimensionality Reduction, Random Forest, Evaluation, SHAP |
-| Teammate Name | Preprocessing, Logistic Regression, XGBoost, Presentation |
+| Viet Thang Tran | EDA, Feature Engineering, Dimensionality Reduction, Random Forest, Evaluation, SHAP |
+| Jeevan Manoj | Preprocessing, Logistic Regression, XGBoost, Presentation |
 
 MSc in Data Science, ATU Donegal - Machine Learning Module, Semester 2 2025/2026
