@@ -289,7 +289,6 @@ to free memory:
 ```bash
 # Run all notebooks from the terminal (recommended for full pipeline)
 cd notebooks
-pip install -r requirements.txt
 jupyter nbconvert --to notebook --execute 01_Prepocessing.ipynb --output 01_Prepocessing.ipynb
 jupyter nbconvert --to notebook --execute 02_EDA.ipynb --output 02_EDA.ipynb
 jupyter nbconvert --to notebook --execute 03_Feature_Engineering.ipynb --output 03_Feature_Engineering.ipynb
