@@ -144,7 +144,7 @@ Heart-Disease-Prediction-Using-Machine-Learning/
 | 05_Random_Forest | Baseline and tuned RF classifier | Viet Thang Tran |
 | 06_LR | Baseline, pipeline, and tuned LR classifier | Jeevan Manoj |
 | 07_XGBoost | Baseline and tuned XGBoost classifier | Jeevan Manoj |
-| 08_Evaluation | Full model comparison and threshold analysis | Shared |
+| 08_Evaluation | Full model comparison and threshold analysis | Viet Thang Tran |
 | 09_SHAP | Feature importance and individual predictions | Viet Thang Tran |
 
 Notebooks must be run in order (01 through 09) as each depends on outputs
