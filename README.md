@@ -312,4 +312,4 @@ notebook 01. All other data files are generated automatically by the pipeline.
 | Viet Thang Tran | EDA, Feature Engineering, Dimensionality Reduction, Random Forest, Evaluation, SHAP |
 | Jeevan Manoj | Preprocessing, Logistic Regression, XGBoost, Presentation |
 
-MSc in Data Science, ATU Donegal - Machine Learning Module, Semester 2 2025/2026
+MSc in Data Science, ATU Donegal - Machine Learning, Spring 2026
