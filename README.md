@@ -289,6 +289,7 @@ to free memory:
 ```bash
 # Run all notebooks from the terminal (recommended for full pipeline)
 cd notebooks
+pip install -r requirements.txt
 jupyter nbconvert --to notebook --execute 01_Prepocessing.ipynb --output 01_Prepocessing.ipynb
 jupyter nbconvert --to notebook --execute 02_EDA.ipynb --output 02_EDA.ipynb
 jupyter nbconvert --to notebook --execute 03_Feature_Engineering.ipynb --output 03_Feature_Engineering.ipynb
@@ -312,5 +313,4 @@ notebook 01. All other data files are generated automatically by the pipeline.
 | Viet Thang Tran | EDA, Feature Engineering, Dimensionality Reduction, Random Forest, Evaluation, SHAP |
 | Jeevan Manoj | Preprocessing, Logistic Regression, XGBoost, Presentation |
 
-MSc in Data Science, ATU Donegal - Machine Learning Module, Semester 2 2025/2026
->>>>>>> dev
+MSc in Data Science, ATU Donegal - Machine Learning, Spring 2026
