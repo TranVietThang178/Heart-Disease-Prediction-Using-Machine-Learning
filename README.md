@@ -1,5 +1,12 @@
 # Heart Disease Prediction Using Machine Learning
 
+[![Python](https://img.shields.io/badge/Python-3.14-blue)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.8.0-orange)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-3.2.0-red)](https://xgboost.readthedocs.io/)
+[![SHAP](https://img.shields.io/badge/SHAP-0.51.0-green)](https://shap.readthedocs.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-3.0.2-150458)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+
 A comparative analysis of machine learning models for heart disease prediction
 using clinical data from the UCI Heart Disease dataset. This project was developed
 as part of the MSc in Data Science - Machine Learning module at ATU Donegal.
